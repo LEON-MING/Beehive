@@ -1,7 +1,4 @@
 # Beehive
-## UC Berkeley
-
--------------
 
 Beehive is an open source web application written in Rails 4 designed
 to facilitate the matching of students (in particular, but not necessarily,
